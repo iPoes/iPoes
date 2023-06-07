@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iPoes
 - 👀 I’m interested in making basic plugins
 - 🌱 I’m currently learning Java/Kotlin
-- 📫 How to reach me on Discord
+- 📫 You can reach me on Discord
 
 <!---
 iPoes/iPoes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
